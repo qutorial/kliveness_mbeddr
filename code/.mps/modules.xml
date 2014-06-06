@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MPSProject">
+    <projectModules>
+      <modulePath path="$PROJECT_DIR$/languages/com.mbeddr.analyses.cbmc.incremental/com.mbeddr.analyses.cbmc.incremental.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/com.mbeddr.analyses.cbmc.incremental/runtime/com.mbeddr.analyses.cbmc.incremental.runtime.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/com.mbeddr.analyses.cbmc.incremental/sandbox/com.mbeddr.analyses.cbmc.incremental.sandbox.msd" folder="" />
+    </projectModules>
+  </component>
+</project>
+
